@@ -1,0 +1,10 @@
+Name : Ahmed ElMousel
+Problem : A-n32-k5 
+Whale Algorithm 
+cost : 570.013742641
+Routes : 
+1->12->10->9->6->5->22->8->1
+1->13->7->2->3->4->17->16->15->18->23->21->20->19->1
+1->14->11->1
+1->1
+Computational time : 0.103000164032
